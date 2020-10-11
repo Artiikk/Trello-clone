@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Trello-clone/static/css/main.ae521d4e.chunk.css",
-    "main.js": "/Trello-clone/static/js/main.05b4b887.chunk.js",
-    "main.js.map": "/Trello-clone/static/js/main.05b4b887.chunk.js.map",
-    "runtime-main.js": "/Trello-clone/static/js/runtime-main.f243cd04.js",
-    "runtime-main.js.map": "/Trello-clone/static/js/runtime-main.f243cd04.js.map",
-    "static/js/2.395b216e.chunk.js": "/Trello-clone/static/js/2.395b216e.chunk.js",
-    "static/js/2.395b216e.chunk.js.map": "/Trello-clone/static/js/2.395b216e.chunk.js.map",
-    "index.html": "/Trello-clone/index.html",
-    "precache-manifest.b90f681dbed4ae57be0fc0e56b001c56.js": "/Trello-clone/precache-manifest.b90f681dbed4ae57be0fc0e56b001c56.js",
-    "service-worker.js": "/Trello-clone/service-worker.js",
-    "static/css/main.ae521d4e.chunk.css.map": "/Trello-clone/static/css/main.ae521d4e.chunk.css.map",
-    "static/js/2.395b216e.chunk.js.LICENSE.txt": "/Trello-clone/static/js/2.395b216e.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/Trello-clone/static/media/night_sky.7b8fab2c.png"
+    "main.css": "/Trello-clone/homepage/static/css/main.8d619ba6.chunk.css",
+    "main.js": "/Trello-clone/homepage/static/js/main.f6cb9ca1.chunk.js",
+    "main.js.map": "/Trello-clone/homepage/static/js/main.f6cb9ca1.chunk.js.map",
+    "runtime-main.js": "/Trello-clone/homepage/static/js/runtime-main.972e013b.js",
+    "runtime-main.js.map": "/Trello-clone/homepage/static/js/runtime-main.972e013b.js.map",
+    "static/js/2.395b216e.chunk.js": "/Trello-clone/homepage/static/js/2.395b216e.chunk.js",
+    "static/js/2.395b216e.chunk.js.map": "/Trello-clone/homepage/static/js/2.395b216e.chunk.js.map",
+    "index.html": "/Trello-clone/homepage/index.html",
+    "precache-manifest.c1e2da2af21040cdf997f7a504dff0db.js": "/Trello-clone/homepage/precache-manifest.c1e2da2af21040cdf997f7a504dff0db.js",
+    "service-worker.js": "/Trello-clone/homepage/service-worker.js",
+    "static/css/main.8d619ba6.chunk.css.map": "/Trello-clone/homepage/static/css/main.8d619ba6.chunk.css.map",
+    "static/js/2.395b216e.chunk.js.LICENSE.txt": "/Trello-clone/homepage/static/js/2.395b216e.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/Trello-clone/homepage/static/media/night_sky.7b8fab2c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f243cd04.js",
+    "static/js/runtime-main.972e013b.js",
     "static/js/2.395b216e.chunk.js",
-    "static/css/main.ae521d4e.chunk.css",
-    "static/js/main.05b4b887.chunk.js"
+    "static/css/main.8d619ba6.chunk.css",
+    "static/js/main.f6cb9ca1.chunk.js"
   ]
 }
