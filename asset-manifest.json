@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ef8672d.chunk.css",
-    "main.js": "/static/js/main.05b4b887.chunk.js",
-    "main.js.map": "/static/js/main.05b4b887.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a29677e0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a29677e0.js.map",
-    "static/js/2.395b216e.chunk.js": "/static/js/2.395b216e.chunk.js",
-    "static/js/2.395b216e.chunk.js.map": "/static/js/2.395b216e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7f067bdbb4bd18a5a383ca44b392089d.js": "/precache-manifest.7f067bdbb4bd18a5a383ca44b392089d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1ef8672d.chunk.css.map": "/static/css/main.1ef8672d.chunk.css.map",
-    "static/js/2.395b216e.chunk.js.LICENSE.txt": "/static/js/2.395b216e.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/static/media/night_sky.7b8fab2c.png"
+    "main.css": "/Trello-clone/static/css/main.ae521d4e.chunk.css",
+    "main.js": "/Trello-clone/static/js/main.05b4b887.chunk.js",
+    "main.js.map": "/Trello-clone/static/js/main.05b4b887.chunk.js.map",
+    "runtime-main.js": "/Trello-clone/static/js/runtime-main.f243cd04.js",
+    "runtime-main.js.map": "/Trello-clone/static/js/runtime-main.f243cd04.js.map",
+    "static/js/2.395b216e.chunk.js": "/Trello-clone/static/js/2.395b216e.chunk.js",
+    "static/js/2.395b216e.chunk.js.map": "/Trello-clone/static/js/2.395b216e.chunk.js.map",
+    "index.html": "/Trello-clone/index.html",
+    "precache-manifest.b90f681dbed4ae57be0fc0e56b001c56.js": "/Trello-clone/precache-manifest.b90f681dbed4ae57be0fc0e56b001c56.js",
+    "service-worker.js": "/Trello-clone/service-worker.js",
+    "static/css/main.ae521d4e.chunk.css.map": "/Trello-clone/static/css/main.ae521d4e.chunk.css.map",
+    "static/js/2.395b216e.chunk.js.LICENSE.txt": "/Trello-clone/static/js/2.395b216e.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/Trello-clone/static/media/night_sky.7b8fab2c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a29677e0.js",
+    "static/js/runtime-main.f243cd04.js",
     "static/js/2.395b216e.chunk.js",
-    "static/css/main.1ef8672d.chunk.css",
+    "static/css/main.ae521d4e.chunk.css",
     "static/js/main.05b4b887.chunk.js"
   ]
 }
